@@ -16,10 +16,10 @@
         </div>
         <nav class="menu">
           <ul>
-            <li><a href="/" class="active">Home</a></li>
-            <li><a href="/about-us.php">About us</a></li>
-            <li><a href="#">Photos</a></li>
-            <li><a href="#">Contact</a></li>
+            <li><a href="/" class="home">Home</a></li>
+            <li><a href="/about-us.php" class="about-us">About us</a></li>
+            <li><a href="#" class="photos">Photos</a></li>
+            <li><a href="#" class="contact">Contact</a></li>
           </ul>
         </nav>
       </div>
