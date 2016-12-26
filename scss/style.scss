@@ -172,3 +172,22 @@ footer {
 		}
 	}
 }
+.section1 {
+	// display: inline-block;
+	> div {
+		width: 33.333%;
+		float: left;
+		&:first-of-type {
+			padding-right: 20px;
+		}
+		&:last-of-type {
+			padding-left: 20px;
+		}
+	}
+
+	.inner-wrapper {
+		background-color: rgba(#195a9f, 0.6);
+		padding: 20px 10px;
+		min-height: 270px;
+	}
+}

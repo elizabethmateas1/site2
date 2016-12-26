@@ -146,4 +146,16 @@ footer {
       footer .right .social-icon:last-of-type {
         margin-right: 0; }
 
+.section1 > div {
+  width: 33.333%;
+  float: left; }
+  .section1 > div:first-of-type {
+    padding-right: 20px; }
+  .section1 > div:last-of-type {
+    padding-left: 20px; }
+.section1 .inner-wrapper {
+  background-color: rgba(25, 90, 159, 0.6);
+  padding: 20px 10px;
+  min-height: 270px; }
+
 /*# sourceMappingURL=global.css.map */
