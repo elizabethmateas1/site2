@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="css/global.css">
+    <link rel="stylesheet" href="/css/global.css">
     <script src="https://use.fontawesome.com/7a92afb582.js"></script>
   </head>
   <body>
